@@ -1,0 +1,47 @@
+body {
+    font-family: roboto;
+}
+.site-name-1, .site-name-2 {
+    font-size: 26px;
+    line-height: 1.17384615;
+}
+.head ul {
+    font-size: 14px;
+    line-height: 1.17214286;
+}
+.solution h1 {
+    font-size: 44px;
+    line-height: 1.363636363;
+}
+.solution button {
+    font-size: 16px;
+    line-height: 1.875;
+}
+.feature h3 {
+    font-size: 14px;
+    line-height: 1.17214286;
+}
+.feature p {
+    font-size: 14px;
+    line-height: 1.71428571;
+}
+.our-job h2 {
+    font-size: 36px;
+    line-height: 1.17194444;
+}
+.our-team h2 {
+    font-size: 36px;
+    line-height: 1.17194444;
+}
+.our-team h3 {
+    font-size: 16px;
+    line-height: 1.171875;
+}
+.our-team p {
+    font-size: 16px;
+    line-height: 1.171875;
+}
+.footer ul {
+    font-size: 14px;
+    line-height: 1.14285714;
+}
