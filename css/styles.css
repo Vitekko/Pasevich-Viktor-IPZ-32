@@ -1,5 +1,6 @@
 body {
-    font-family: roboto;
+    font-family: roboto, Arial, Helvetica, sans-serif;
+    /*color: #757575;*/
 }
 button {
     cursor: pointer;
@@ -11,18 +12,22 @@ button {
 .head ul {
     font-size: 14px;
     line-height: 1.17214286;
+    font-weight: 500;
 }
 .solution h1 {
     font-size: 44px;
     line-height: 1.363636363;
+    font-weight: 900;
 }
 .solution button {
     font-size: 16px;
     line-height: 1.875;
+    font-weight: 700;
 }
 .feature h3 {
     font-size: 14px;
     line-height: 1.17214286;
+    font-weight: 700;
 }
 .feature p {
     font-size: 14px;
@@ -31,14 +36,17 @@ button {
 .our-job h2 {
     font-size: 36px;
     line-height: 1.17194444;
+    font-weight: 700;
 }
 .our-team h2 {
     font-size: 36px;
     line-height: 1.17194444;
+    font-weight: 700;
 }
 .our-team h3 {
     font-size: 16px;
     line-height: 1.171875;
+    font-weight: 500;
 }
 .our-team p {
     font-size: 16px;
@@ -51,10 +59,12 @@ button {
 .portfolio-buttons {
     font-size: 16px;
     line-height: 1.625;
+    font-weight: 500;
 }
 .portfolio-post h3 {
     font-size: 18px;
     line-height: 2;
+    font-weight: 700;
 }
 .portfolio-post p {
     font-size: 16px;
